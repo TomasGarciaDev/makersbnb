@@ -1,7 +1,7 @@
 Setting up MakersBnB 
 -----
 ```
-git clone https://github.com/IbrahimAC/makersbnb.git
+git clone https://github.com/TomasGarciaDev/makersbnb
 cd makersbnb
 bundle install
 ```
